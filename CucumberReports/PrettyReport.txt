@@ -1,0 +1,21 @@
+@Regression @user2
+Feature: Testing Searches
+
+  @Smoke @google
+  Scenario Template: Google Search [90m# Features/Search.feature:10[0m
+    [36mGiven Environment is Ready[0m
+    [36mWhen go to 'https://www.google.com' website[0m
+    [36mThen Enter '<Products>' in search box[0m
+    [36m* Close Browser[0m
+
+    Examples: 
+
+  @Regression @user2 @Smoke @google
+  Scenario Template: Google Search              [90m# Features/Search.feature:18[0m
+    [32mGiven [0m[32mEnvironment is Ready[0m                  [90m# SearchStep.environment_is_Ready()[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchStep.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'apple'[0m[32m in search box[0m            [90m# SearchStep.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchStep.close_Browser()[0m
+
+  @Regression @user2 @Smoke @google
+  Scenario Template: Google Search              [90m# Features/Search.feature:19[0m
