@@ -1,14 +1,15 @@
 package Pages;
 
 import Utilities.Driver;
+import Utilities.TestBase;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class Elements {
+public class Elements extends TestBase {
 
     public Elements(){
-        PageFactory.initElements(Driver.getDriver() , this);
+        PageFactory.initElements(driver , this);
     }
 
 

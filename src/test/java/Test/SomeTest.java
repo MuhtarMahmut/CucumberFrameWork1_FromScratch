@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         glue = "Steps",
         dryRun = false,
         plugin = {"html:CucumberReports",
-                "junit:CucumberReports/JunitReport.xml",
+                "junit:CucumberReports/JunitReport.xml"
         }
 )
 public class SomeTest {

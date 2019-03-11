@@ -26,20 +26,12 @@ formatter.scenarioOutline({
   ]
 });
 formatter.step({
-  "name": "Environment is Ready",
-  "keyword": "Given "
-});
-formatter.step({
   "name": "go to \u0027https://www.google.com\u0027 website",
   "keyword": "When "
 });
 formatter.step({
   "name": "Enter \u0027\u003cProducts\u003e\u0027 in search box",
   "keyword": "Then "
-});
-formatter.step({
-  "name": "Close Browser",
-  "keyword": "* "
 });
 formatter.examples({
   "name": "",
@@ -80,36 +72,6 @@ formatter.examples({
       "cells": [
         "Uyghur"
       ]
-    },
-    {
-      "cells": [
-        "Mirzat"
-      ]
-    },
-    {
-      "cells": [
-        "Kawsar"
-      ]
-    },
-    {
-      "cells": [
-        "Patima"
-      ]
-    },
-    {
-      "cells": [
-        "Kuddus"
-      ]
-    },
-    {
-      "cells": [
-        "Ihtipar"
-      ]
-    },
-    {
-      "cells": [
-        "Ramila"
-      ]
     }
   ]
 });
@@ -136,16 +98,6 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "Environment is Ready",
-  "keyword": "Given "
-});
-formatter.match({
-  "location": "SearchStep.environment_is_Ready()"
-});
-formatter.result({
-  "status": "passed"
-});
-formatter.step({
   "name": "go to \u0027https://www.google.com\u0027 website",
   "keyword": "When "
 });
@@ -161,16 +113,6 @@ formatter.step({
 });
 formatter.match({
   "location": "SearchStep.enter_in_search_box(String)"
-});
-formatter.result({
-  "status": "passed"
-});
-formatter.step({
-  "name": "Close Browser",
-  "keyword": "* "
-});
-formatter.match({
-  "location": "SearchStep.close_Browser()"
 });
 formatter.result({
   "status": "passed"
@@ -201,16 +143,6 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "Environment is Ready",
-  "keyword": "Given "
-});
-formatter.match({
-  "location": "SearchStep.environment_is_Ready()"
-});
-formatter.result({
-  "status": "passed"
-});
-formatter.step({
   "name": "go to \u0027https://www.google.com\u0027 website",
   "keyword": "When "
 });
@@ -226,4 +158,191 @@ formatter.step({
 });
 formatter.match({
   "location": "SearchStep.enter_in_search_box(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Google Search",
+  "description": "",
+  "keyword": "Scenario Template",
+  "tags": [
+    {
+      "name": "@Regression"
+    },
+    {
+      "name": "@user2"
+    },
+    {
+      "name": "@Smoke"
+    },
+    {
+      "name": "@google"
+    }
+  ]
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "go to \u0027https://www.google.com\u0027 website",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "SearchStep.go_to_website(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter \u0027iphone\u0027 in search box",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SearchStep.enter_in_search_box(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Google Search",
+  "description": "",
+  "keyword": "Scenario Template",
+  "tags": [
+    {
+      "name": "@Regression"
+    },
+    {
+      "name": "@user2"
+    },
+    {
+      "name": "@Smoke"
+    },
+    {
+      "name": "@google"
+    }
+  ]
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "go to \u0027https://www.google.com\u0027 website",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "SearchStep.go_to_website(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter \u0027Rayisa\u0027 in search box",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SearchStep.enter_in_search_box(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Google Search",
+  "description": "",
+  "keyword": "Scenario Template",
+  "tags": [
+    {
+      "name": "@Regression"
+    },
+    {
+      "name": "@user2"
+    },
+    {
+      "name": "@Smoke"
+    },
+    {
+      "name": "@google"
+    }
+  ]
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "go to \u0027https://www.google.com\u0027 website",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "SearchStep.go_to_website(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter \u0027zohra\u0027 in search box",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SearchStep.enter_in_search_box(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Google Search",
+  "description": "",
+  "keyword": "Scenario Template",
+  "tags": [
+    {
+      "name": "@Regression"
+    },
+    {
+      "name": "@user2"
+    },
+    {
+      "name": "@Smoke"
+    },
+    {
+      "name": "@google"
+    }
+  ]
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "go to \u0027https://www.google.com\u0027 website",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "SearchStep.go_to_website(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter \u0027Uyghur\u0027 in search box",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SearchStep.enter_in_search_box(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
 });

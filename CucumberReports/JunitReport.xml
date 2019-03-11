@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="78.079448">
+<testcase classname="Testing Searches" name="Google Search" time="17.053591">
+<system-out><![CDATA[When go to 'https://www.google.com' website.................................passed
+Then Enter 'apple' in search box............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Searches" name="Google Search 2" time="12.522395">
+<system-out><![CDATA[When go to 'https://www.google.com' website.................................passed
+Then Enter 'yagyu' in search box............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Searches" name="Google Search 3" time="12.269679">
+<system-out><![CDATA[When go to 'https://www.google.com' website.................................passed
+Then Enter 'iphone' in search box...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Searches" name="Google Search 4" time="12.008809">
+<system-out><![CDATA[When go to 'https://www.google.com' website.................................passed
+Then Enter 'Rayisa' in search box...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Searches" name="Google Search 5" time="12.246273">
+<system-out><![CDATA[When go to 'https://www.google.com' website.................................passed
+Then Enter 'zohra' in search box............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Searches" name="Google Search 6" time="11.978701">
+<system-out><![CDATA[When go to 'https://www.google.com' website.................................passed
+Then Enter 'Uyghur' in search box...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
