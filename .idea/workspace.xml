@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90eb298-0b58-4519-9ab5-36bc546018fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/MyLibraray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/JunitReport.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/PrettyReport.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/UsageReport.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/formatter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/jquery-1.8.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CucumberReports/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Features/Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Search.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/SearchStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/SearchStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test/SomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/SomeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Elements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Steps/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Steps/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Steps/SearchStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Steps/SearchStep.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,11 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test/SomeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="489">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,9 +27,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CucumberReports/report.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-720" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="330">
               <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
@@ -56,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="360">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Steps/SearchStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="480">
               <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/MyLibraray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="990">
               <caret line="41" column="81" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -164,8 +153,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="2568" />
-    <option name="height" value="1537" />
+    <option name="width" value="2573" />
+    <option name="height" value="1542" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -181,6 +169,11 @@
             <path>
               <item name="CucumberFrameWork1_FromScratch" type="b2602c69:ProjectViewProjectNode" />
               <item name="CucumberFrameWork1_FromScratch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberFrameWork1_FromScratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberFrameWork1_FromScratch" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberReports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CucumberFrameWork1_FromScratch" type="b2602c69:ProjectViewProjectNode" />
@@ -241,6 +234,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,7 +330,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="888" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27860695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29424307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,7 +352,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.336887" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.336887" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -395,9 +389,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Hooks.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Elements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -405,9 +397,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberReports/JunitReport.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test/SomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Steps/SearchStep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="480">
           <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -417,21 +439,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/MyLibraray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="990">
           <caret line="41" column="81" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberReports/JunitReport.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -445,21 +454,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test/SomeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/CucumberReports/formatter.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hooks.java">
+    <entry file="file://$PROJECT_DIR$/CucumberReports/report.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
+        <state relative-caret-position="-720" />
       </provider>
     </entry>
   </component>
