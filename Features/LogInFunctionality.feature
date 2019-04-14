@@ -2,6 +2,11 @@
 @Regression @User1
 Feature: Testing Logins
 
+
+  Background:
+
+
+
   @Smoke
   Scenario Outline: Testing Gmail Logins
     When go to 'https://www.gmail.com' website

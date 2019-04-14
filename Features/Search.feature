@@ -6,6 +6,8 @@ Feature: Testing Searches
     Scenario: sadas
       When xxx
 
+
+
   @Smoke @google
   Scenario Template: Google Search
     When go to 'https://www.google.com' website
